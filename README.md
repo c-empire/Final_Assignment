@@ -2,4 +2,4 @@
 
 ## Chukwudi Nzurumike
 
-This is my final assignment
+ Analyzing Historical Stock/Revenue Data and Building a Dashboard(TESLA AND GAMESPOT)
